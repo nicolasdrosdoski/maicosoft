@@ -1,3 +1,3 @@
 # maicosoft
 
-A new Flutter project.
+Sistema de gerenciamento de produtos, cliente e pedidos.
